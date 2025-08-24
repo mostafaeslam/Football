@@ -71,10 +71,7 @@ The system produces an annotated video with:
 - Jersey number annotations when detected
 - Object tracking across frames
 
-## License
-
-This project is provided for educational and research purposes.
 
 ## Author
 
-Your Name
+Mostafa Eslam
